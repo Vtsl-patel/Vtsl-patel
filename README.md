@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vtsl-patel
 - 👀 I’m interested in Competitive Programming 
-- 🌱 I’m currently learning cpp
+- 🌱 I’m currently learning Web Development
 
 - 📫 Reach me @ codephysicsvatsal@gmail.com 
 
